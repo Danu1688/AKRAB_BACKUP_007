@@ -1,7 +1,7 @@
 proxies:
 - name: danu07
   type: trojan
-  server: wsindo.aryossh.my.id
+  server: 172.67.199.34
   port: 443
   password: e5f1074e-0271-4f89-b592-2a443e889b4b
   udp: true
