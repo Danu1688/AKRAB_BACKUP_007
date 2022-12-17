@@ -7,7 +7,7 @@ proxies:
   udp: true
   sni: sg-ctn.sshpremium.my.id
   skip-cert-verify: true
-  network: ws
+  network: websocket
   ws-opts:
     path: /trojanws
     headers:
